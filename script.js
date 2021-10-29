@@ -4,7 +4,7 @@ const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
 
-const christmas="25 Dec 2021";
+const christmas="4 Nov 2021";
 
 function countdown(){
     const christmasDate = new Date(christmas);
